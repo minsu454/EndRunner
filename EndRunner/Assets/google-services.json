@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "613175029540",
+    "project_id": "end-runner",
+    "storage_bucket": "end-runner.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613175029540:android:9a6c57b8316bbf6f3b8db1",
+        "android_client_info": {
+          "package_name": "com.Ggsoft.EndRunner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613175029540-rtroornkb2d43vh8emmuevtejm1nhanp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Ggsoft.EndRunner",
+            "certificate_hash": "cf07832e93daa1e20c18c772fddbe3d8896291dd"
+          }
+        },
+        {
+          "client_id": "613175029540-tf0p6lunvt4fcq6gvssr1ao9pn0iaedc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Ggsoft.EndRunner",
+            "certificate_hash": "1f7224c641998d94db37be3315b93bb48a3efa55"
+          }
+        },
+        {
+          "client_id": "613175029540-hog9ihgkmttb27qh6vnc3fj61gcuu4p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCObEWPFzUZ9lBzgmO6vU0_2O6xUUvOu9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613175029540-hog9ihgkmttb27qh6vnc3fj61gcuu4p8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

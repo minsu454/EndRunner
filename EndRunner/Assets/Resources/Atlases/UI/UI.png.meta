@@ -1,0 +1,1106 @@
+fileFormatVersion: 2
+guid: 8b8622cddad698b4bb11c76e1460c8e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Bomb
+  - first:
+      213: 21300002
+    second: Button_01
+  - first:
+      213: 21300004
+    second: Button_02
+  - first:
+      213: 21300006
+    second: Button_03
+  - first:
+      213: 21300008
+    second: CenterImage
+  - first:
+      213: 21300010
+    second: Check
+  - first:
+      213: 21300012
+    second: Close
+  - first:
+      213: 21300014
+    second: Coin
+  - first:
+      213: 21300016
+    second: continue
+  - first:
+      213: 21300018
+    second: GoTitle
+  - first:
+      213: 21300020
+    second: Icon_Accessories
+  - first:
+      213: 21300022
+    second: Icon_Challenge
+  - first:
+      213: 21300024
+    second: Icon_Characters
+  - first:
+      213: 21300026
+    second: Icon_Eye
+  - first:
+      213: 21300028
+    second: Icon_Hat
+  - first:
+      213: 21300030
+    second: Icon_Tie
+  - first:
+      213: 21300032
+    second: language
+  - first:
+      213: 21300034
+    second: Lock_00
+  - first:
+      213: 21300036
+    second: Lock_01
+  - first:
+      213: 21300038
+    second: mute
+  - first:
+      213: 21300040
+    second: Next
+  - first:
+      213: 21300042
+    second: nonmute
+  - first:
+      213: 21300044
+    second: pause
+  - first:
+      213: 21300046
+    second: Popup_background
+  - first:
+      213: 21300048
+    second: Popup_Challenge
+  - first:
+      213: 21300050
+    second: Popup_Character
+  - first:
+      213: 21300052
+    second: Popup_Continue
+  - first:
+      213: 21300054
+    second: Popup_Item
+  - first:
+      213: 21300056
+    second: Popup_Setting
+  - first:
+      213: 21300058
+    second: QuestionMark
+  - first:
+      213: 21300060
+    second: Retry
+  - first:
+      213: 21300062
+    second: slider_background
+  - first:
+      213: 21300064
+    second: slider_fill
+  - first:
+      213: 21300066
+    second: thumb
+  - first:
+      213: 21300068
+    second: thumbBackground
+  - first:
+      213: 21300070
+    second: unitframe_background
+  - first:
+      213: 21300072
+    second: unitframe_mask
+  - first:
+      213: 21300074
+    second: White
+  - first:
+      213: 21300076
+    second: Icon_Setting
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 4
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bomb
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 1532
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e8cc7d5119e5b4ea0def1dbd6a5b7b
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_01
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 1904
+        width: 200
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75c12e6169f0ff42b224fefe7f9436c
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_02
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1840
+        width: 200
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c79c497e87074540a2e461a73aff0bc
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_03
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1938
+        width: 110
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfa82f710d42864080a92bbd47a0e44
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Check
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1683
+        width: 65
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d99c51bd28cc84e8518e2eec5e6de1
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 1733
+        width: 75
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e4f382dbc3559428c7bdbf43dbf67c
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1837
+        width: 400
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef939a17551f0c4fa4f2d630753ee9a
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continue
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1837
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ae226a50d1c184cae948592e680481
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoTitle
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1532
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35df1730995732a4399f7e34e61ed30c
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Accessories
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 602
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999650c76d1d0c24087503c5f63575e7
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Challenge
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1002
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b073feec7ebc4468b89fc10c7957cb
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Characters
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 0
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a81aacd573a1094cb0e24f1147018c7
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Eye
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1938
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f781749a5c375f4da9a45b3f2cc6bae
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Hat
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1989
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b640088597a44e84b915c7e679cc80a1
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Setting
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 301
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5be15844851ef45ae6bbbe602f2c69
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Tie
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1989
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a71215afaaf0b45a46173ce664224e
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: language
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1941
+        width: 200
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64a256673d169e45a97def22b90fe9c
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lock_00
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 1733
+        width: 200
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37b6b1a82b90054f953e646a16f78c9
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lock_01
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1938
+        width: 65
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd73bf607b67add4a9a25dc9e8e78889
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mute
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1989
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edd520cf168d0345884483e90798f61
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Next
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1733
+        width: 75
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386e99ad9216f5545a12456edb1a4bd1
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nonmute
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 2014
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878f03c033643d14dbb75350d85adce6
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pause
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1002
+        width: 600
+        height: 600
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c37b6398916c964db7b66a23a5d903c
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popup_background
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 800
+        height: 500
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 103, z: 0, w: 210}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee15902c5e7a5f41ad82c1bdd07e98f
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popup_Challenge
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1503
+        width: 800
+        height: 500
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99c62bfcbfc00449995185cf82a69d6
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popup_Character
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 501
+        width: 800
+        height: 500
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e4585ce561b524e9a67481e51e6900
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popup_Continue
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1002
+        width: 800
+        height: 500
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 223, z: 0, w: 188}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8d7f7cb07d006459a02bb76bf3dec9
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popup_Item
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 0
+        width: 800
+        height: 500
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69473eb1e9c4c9e4ab8a7cadd90bbdf9
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Popup_Setting
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 501
+        width: 800
+        height: 500
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad0e1f0c86d6dc4e89fbe748b081304
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestionMark
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 1733
+        width: 40
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84108d3e9c9eb044ca4620cabba50783
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retry
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1837
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54571f2da7303c6449c238060bf896ad
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slider_background
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 1683
+        width: 128
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ea221d50a374443886d4eeede3c5e1
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slider_fill
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1809
+        width: 128
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e6d7c32cab0b7488127d7b16434138
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumb
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 1794
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4abeca93ebb31d409a2be06e8d76165
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbBackground
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 2002
+        width: 215
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 0, z: 31, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c67098e1a78b9b41b22d9e7917b37b0
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unitframe_background
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1303
+        width: 228
+        height: 228
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ab6caabb900a14f90d68502d099d67
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unitframe_mask
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1683
+        width: 156
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d883cecae8c084ea62ac3f5c21b9db
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1603
+        width: 603
+        height: 233
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fad4683709af3e49ba72ef0aa28f655
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 47efb63c38257ab4d9fa605bec4ebdea
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bomb: 21300000
+      Button_01: 21300002
+      Button_02: 21300004
+      Button_03: 21300006
+      Check: 21300010
+      Close: 21300012
+      Coin: 21300014
+      GoTitle: 21300018
+      Icon_Accessories: 21300020
+      Icon_Challenge: 21300022
+      Icon_Characters: 21300024
+      Icon_Eye: 21300026
+      Icon_Hat: 21300028
+      Icon_Setting: 21300076
+      Icon_Tie: 21300030
+      Lock_00: 21300034
+      Lock_01: 21300036
+      Next: 21300040
+      Popup_Challenge: 21300048
+      Popup_Character: 21300050
+      Popup_Continue: 21300052
+      Popup_Item: 21300054
+      Popup_Setting: 21300056
+      Popup_background: 21300046
+      QuestionMark: 21300058
+      Retry: 21300060
+      White: 21300074
+      continue: 21300016
+      language: 21300032
+      mute: 21300038
+      nonmute: 21300042
+      pause: 21300044
+      slider_background: 21300062
+      slider_fill: 21300064
+      thumb: 21300066
+      thumbBackground: 21300068
+      unitframe_background: 21300070
+      unitframe_mask: 21300072
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
